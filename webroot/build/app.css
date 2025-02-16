@@ -1,0 +1,29 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].oneOf[1].use[1]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[4].oneOf[1].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].oneOf[1].use[3]!./assets/css/app.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************/
+body {
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  background-color: red;
+}
+
+.react-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.react-page h1 {
+  color: #2980b9;
+}
+.react-page a {
+  color: #3498db;
+  text-decoration: none;
+}
+.react-page a:hover {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmNzcyIsIm1hcHBpbmdzIjoiOzs7QUFDQTtFQUNJO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtBQUFKOztBQUlBO0VBQ0k7RUFDQTtFQUNBO0FBREo7QUFHSTtFQUNJO0FBRFI7QUFJSTtFQUNJO0VBQ0E7QUFGUjtBQUlRO0VBQ0k7QUFGWixDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vY2FrZS1waHAtd2VicGFjay8uL2Fzc2V0cy9jc3MvYXBwLnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gQmFzZSBzdHlsZXNcclxuYm9keSB7XHJcbiAgICBmb250LWZhbWlseTogXCJBcmlhbFwiLCBzYW5zLXNlcmlmO1xyXG4gICAgbGluZS1oZWlnaHQ6IDEuNjtcclxuICAgIGNvbG9yOiAjMzMzO1xyXG4gICAgbWFyZ2luOiAwO1xyXG4gICAgcGFkZGluZzogMDtcclxuICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDtcclxufVxyXG5cclxuLy8gU3R5bGVzIGZvciBSZWFjdCBwYWdlc1xyXG4ucmVhY3QtcGFnZSB7XHJcbiAgICBtYXgtd2lkdGg6IDEyMDBweDtcclxuICAgIG1hcmdpbjogMCBhdXRvO1xyXG4gICAgcGFkZGluZzogMjBweDtcclxuXHJcbiAgICBoMSB7XHJcbiAgICAgICAgY29sb3I6ICMyOTgwYjk7XHJcbiAgICB9XHJcblxyXG4gICAgYSB7XHJcbiAgICAgICAgY29sb3I6ICMzNDk4ZGI7XHJcbiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xyXG5cclxuICAgICAgICAmOmhvdmVyIHtcclxuICAgICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7XHJcbiAgICAgICAgfVxyXG4gICAgfVxyXG59XHJcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/
